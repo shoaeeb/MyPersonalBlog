@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Blog</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <a href="index.html" class="logo">My<span>Blog</span></a>
+            <nav>
+                <a href="index.html" class="active">Home</a>
+                <a href="about.html">About</a>
+            </nav>
+        </header>
+
+        <section class="hero">
+            <h1>Unfiltered Thoughts.</h1>
+            <p>I write about confusion, growth, rejection, and everything in between—because some things are easier to
+                face when they’re written down.</p>
+        </section>
+
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search posts...">
+        </div>
+
+        <div id="blog-grid" class="blog-grid">
+            <!-- Posts will be injected here by JS -->
+        </div>
+
+        <div class="pagination">
+            <button id="prev-btn" class="page-btn">← Previous</button>
+            <span id="page-info" style="align-self: center; color: var(--text-secondary);">Page 1 of 1</span>
+            <button id="next-btn" class="page-btn">Next →</button>
+        </div>
+
+        <footer>
+            <p>&copy; 2024 My Personal Blog. Built with ❤️.</p>
+        </footer>
+    </div>
+
+    <!-- Load Data First -->
+    <script src="js/data.js"></script>
+    <!-- Load Logic Second -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>
