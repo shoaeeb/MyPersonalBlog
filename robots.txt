@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shoaeeb.github.io/MyPersonalBlog/sitemap.xml
