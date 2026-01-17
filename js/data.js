@@ -40,5 +40,12 @@ const blogPosts = [
         date: "2026",
         preview: "A small online interaction, being ignored without explanation, and why not knowing ‘why’ can hurt more than rejection itself.",
         url: "posts/blog5.html"
+    },
+    {
+        id: 7,
+        title: "Wanting a Life, Not Just Time Passing",
+        date: "January 2026",
+        preview: "Feeling stuck between unemployment and loneliness, and longing for real human connection in a phase where life feels paused.",
+        url: "posts/blog6.html"
     }
 ];
