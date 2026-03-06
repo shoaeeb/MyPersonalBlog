@@ -63,4 +63,12 @@ const blogPosts = [
       "A personal reflection on fear, mental health struggles, and the regret of turning down a life-changing job opportunity abroad.",
     url: "posts/blog7.html",
   },
+  {
+    id: 9,
+    title: "Lily and Pilu",
+    date: "March 2026",
+    preview:
+      "A short reflection written after the sudden loss of two kittens, Lily and Pilu, and the quiet hope of meeting them again in Jannah.",
+    url: "posts/blog8.html",
+  },
 ];
