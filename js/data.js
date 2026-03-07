@@ -71,4 +71,12 @@ const blogPosts = [
       "A short reflection written after the sudden loss of two kittens, Lily and Pilu, and the quiet hope of meeting them again in Jannah.",
     url: "posts/blog8.html",
   },
+    {
+    id: 10,
+    title: "Imam's voice",
+    date: "March 2026",
+    preview:
+      "A blog where i express what i think about imam voice and the way he recite the quran.",
+    url: "posts/blog9.html",
+  },
 ];
