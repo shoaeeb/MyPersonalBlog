@@ -78,5 +78,12 @@ const blogPosts = [
     preview:
       "A blog where i express what i think about imam voice and the way he recite the quran.",
     url: "posts/blog9.html",
-  },
+  },{
+  id: 11,
+  title: "I Don’t Want a Relationship But I Still Feel Lonely",
+  date: "April 2026",
+  preview:
+    "I feel attraction, I don’t talk, I don’t want a relationship, but still I feel lonely sometimes. This is just what I feel and what I understood about myself.",
+  url: "posts/blog10.html",
+},
 ];
