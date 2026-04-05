@@ -86,4 +86,11 @@ const blogPosts = [
     "I feel attraction, I don’t talk, I don’t want a relationship, but still I feel lonely sometimes. This is just what I feel and what I understood about myself.",
   url: "posts/blog10.html",
 },
+  {
+  "id": 12,
+  "title": "Cutting Off My Younger Sister Completely",
+  "date": "April 5th 2026",
+  "preview": "I have reached a point where I don’t want to force anything anymore. Whatever relationship we had is already gone, and I am accepting that.",
+  "url": "posts/blog11.html"
+}
 ];
