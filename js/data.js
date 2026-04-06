@@ -92,5 +92,12 @@ const blogPosts = [
   "date": "April 5th 2026",
   "preview": "I have reached a point where I don’t want to force anything anymore. Whatever relationship we had is already gone, and I am accepting that.",
   "url": "posts/blog11.html"
+},
+  {
+  "id": 13,
+  "title": "I Deleted My LinkedIn Account",
+  "date": "April 6th 2026",
+  "preview": "I deleted my LinkedIn account because it kept reminding me of everything I feel I failed at. I feel stuck while everyone else moves forward.",
+  "url": "posts/blog12.html"
 }
 ];
