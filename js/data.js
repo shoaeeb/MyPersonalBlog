@@ -99,5 +99,12 @@ const blogPosts = [
   "date": "April 6th 2026",
   "preview": "I deleted my LinkedIn account because it kept reminding me of everything I feel I failed at. I feel stuck while everyone else moves forward.",
   "url": "posts/blog12.html"
+},
+  {
+  "id": 14,
+  "title": "So Battery Is Dead",
+  "date": "April 9th 2026",
+  "preview": "My kitten Battery was full of energy, but she suddenly fell sick and passed away. I hope she is somewhere peaceful and happy.",
+  "url": "posts/blog13.html"
 }
 ];
