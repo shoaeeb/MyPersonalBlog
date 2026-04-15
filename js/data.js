@@ -71,40 +71,52 @@ const blogPosts = [
       "A short reflection written after the sudden loss of two kittens, Lily and Pilu, and the quiet hope of meeting them again in Jannah.",
     url: "posts/blog8.html",
   },
-    {
+  {
     id: 10,
     title: "Imam's voice",
     date: "March 2026",
     preview:
       "A blog where i express what i think about imam voice and the way he recite the quran.",
     url: "posts/blog9.html",
-  },{
-  id: 11,
-  title: "I Don’t Want a Relationship But I Still Feel Lonely",
-  date: "April 2026",
-  preview:
-    "I feel attraction, I don’t talk, I don’t want a relationship, but still I feel lonely sometimes. This is just what I feel and what I understood about myself.",
-  url: "posts/blog10.html",
-},
+  },
   {
-  "id": 12,
-  "title": "Cutting Off My Younger Sister Completely",
-  "date": "April 5th 2026",
-  "preview": "I have reached a point where I don’t want to force anything anymore. Whatever relationship we had is already gone, and I am accepting that.",
-  "url": "posts/blog11.html"
-},
+    id: 11,
+    title: "I Don’t Want a Relationship But I Still Feel Lonely",
+    date: "April 2026",
+    preview:
+      "I feel attraction, I don’t talk, I don’t want a relationship, but still I feel lonely sometimes. This is just what I feel and what I understood about myself.",
+    url: "posts/blog10.html",
+  },
   {
-  "id": 13,
-  "title": "I Deleted My LinkedIn Account",
-  "date": "April 6th 2026",
-  "preview": "I deleted my LinkedIn account because it kept reminding me of everything I feel I failed at. I feel stuck while everyone else moves forward.",
-  "url": "posts/blog12.html"
-},
+    id: 12,
+    title: "Cutting Off My Younger Sister Completely",
+    date: "April 5th 2026",
+    preview:
+      "I have reached a point where I don’t want to force anything anymore. Whatever relationship we had is already gone, and I am accepting that.",
+    url: "posts/blog11.html",
+  },
   {
-  "id": 14,
-  "title": "So Battery Is Dead",
-  "date": "April 9th 2026",
-  "preview": "My kitten Battery was full of energy, but she suddenly fell sick and passed away. I hope she is somewhere peaceful and happy.",
-  "url": "posts/blog13.html"
-}
+    id: 13,
+    title: "I Deleted My LinkedIn Account",
+    date: "April 6th 2026",
+    preview:
+      "I deleted my LinkedIn account because it kept reminding me of everything I feel I failed at. I feel stuck while everyone else moves forward.",
+    url: "posts/blog12.html",
+  },
+  {
+    id: 14,
+    title: "So Battery Is Dead",
+    date: "April 9th 2026",
+    preview:
+      "My kitten Battery was full of energy, but she suddenly fell sick and passed away. I hope she is somewhere peaceful and happy.",
+    url: "posts/blog13.html",
+  },
+  {
+    id: 15,
+    title: "My Life from a Distance",
+    date: "April 15th 2026",
+    preview:
+      "Reflecting on my choice to embrace solitude, the memories of my school days, and why I find peace in building my own world through code.",
+    url: "posts/blog14.html",
+  },
 ];
