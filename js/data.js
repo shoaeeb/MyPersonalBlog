@@ -119,4 +119,12 @@ const blogPosts = [
       "Reflecting on my choice to embrace solitude, the memories of my school days, and why I find peace in building my own world through code.",
     url: "posts/blog14.html",
   },
+  {
+  id: 16,
+  title: "A Mental Circuit Breaker Moment",
+  date: "April 30th 2026",
+  preview:
+    "A simple moment interrupted a loop of thoughts and showed me how the mind can briefly reset during overwhelming mental patterns.",
+  url: "posts/blog15.html",
+},
 ];
