@@ -127,4 +127,11 @@ const blogPosts = [
     "A simple moment interrupted a loop of thoughts and showed me how the mind can briefly reset during overwhelming mental patterns.",
   url: "posts/blog15.html",
 },
+  {
+    id: 17,
+    title: "Trying to Understand My Own Mind",
+    date: "9th May 2026",
+    preview: "Reflecting on mental illness, missed opportunities, college struggles, and the fear of building a future while feeling disconnected from the life others seem to live naturally.",
+    url: "posts/blog16.html"
+}
 ];
