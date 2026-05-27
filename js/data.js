@@ -133,5 +133,18 @@ const blogPosts = [
     date: "9th May 2026",
     preview: "Reflecting on mental illness, missed opportunities, college struggles, and the fear of building a future while feeling disconnected from the life others seem to live naturally.",
     url: "posts/blog16.html"
+},
+  {
+    id: 18,
+    title: "One Word That Made Me Think For Hours",
+    date: "27th May 2026",
+    preview: "Someone on Discord called me distinct. Two words that sent me into hours of thinking about Dostoevsky, phenomenology, and why I write at all.",
+    url: "posts/blog17.html"
+},{
+    id: 18,
+    title: "One Word That Made Me Think For Hours",
+    date: "27th May 2026",
+    preview: "Someone on Discord called me distinct. Two words that sent me into hours of thinking about Dostoevsky, phenomenology, and why I write at all.",
+    url: "posts/blog17.html"
 }
 ];
