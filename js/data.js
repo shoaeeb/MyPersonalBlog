@@ -146,5 +146,12 @@ const blogPosts = [
     date: "27th May 2026",
     preview: "Someone on Discord called me distinct. Two words that sent me into hours of thinking about Dostoevsky, phenomenology, and why I write at all.",
     url: "posts/blog17.html"
+},
+  {
+    id: 19,
+    title: "The Person I Could Not Stop Talking To",
+    date: "27th May 2026",
+    preview: "An honest account of what happens when loneliness drives you toward someone who is trying to move away. I am not proud of this. But I think it is worth writing.",
+    url: "posts/blog18.html"
 }
 ];
