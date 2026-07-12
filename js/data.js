@@ -153,5 +153,12 @@ const blogPosts = [
     date: "27th May 2026",
     preview: "An honest account of what happens when loneliness drives you toward someone who is trying to move away. I am not proud of this. But I think it is worth writing.",
     url: "posts/blog18.html"
+},
+  {
+    id: 20,
+    title: "Looking for a New Goal",
+    date: "12th July 2026",
+    preview: "I officially left coding behind and now find myself searching for a new purpose. A personal reflection on illness, changing interests, and hoping to discover a goal worth pursuing.",
+    url: "posts/blog19.html"
 }
 ];
