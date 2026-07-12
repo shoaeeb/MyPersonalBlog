@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Looking for a New Goal - My Personal Blog</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RGNS467E7T"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-RGNS467E7T');
+    </script>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="A personal reflection on leaving coding behind, living with mental illness, and searching for a new purpose in life.">
+    <meta name="keywords"
+        content="personal blog, coding, life, purpose, mental illness, software engineering">
+    <link rel="canonical"
+        href="https://shoaeeb.github.io/MyPersonalBlog/posts/blog19.html">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url"
+        content="https://shoaeeb.github.io/MyPersonalBlog/posts/blog19.html">
+    <meta property="og:title" content="Looking for a New Goal">
+    <meta property="og:description"
+        content="A personal reflection on leaving coding behind and searching for a new goal in life.">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <a href="../index.html" class="logo">My<span>Blog</span></a>
+
+            <nav>
+                <a href="../index.html">Home</a>
+                <a href="../about.html">About</a>
+            </nav>
+        </header>
+
+        <article class="about-section" style="margin-top: 2rem;">
+
+            <a href="../index.html"
+                style="color: var(--accent-color); text-decoration: none; display: inline-block; margin-bottom: 1rem;">
+                ← Back to Home
+            </a>
+
+            <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; line-height: 1.2;">
+                Looking for a New Goal
+            </h1>
+
+            <div style="color: var(--text-secondary); margin-bottom: 2rem;">
+                Published on July 12, 2026
+            </div>
+
+            <div class="blog-content"
+                style="color: var(--text-primary); line-height: 1.8; font-size: 1.1rem;">
+
+                <p style="margin-bottom: 1.5rem;">
+                    I have not written a blog in a long time, so I thought I would write one today.
+                </p>
+
+                <p style="margin-bottom: 1.5rem;">
+                    The reason is simple: I am doing fine. I do not really feel lonely anymore. These days, I spend my
+                    time playing games for a while, reading Discord chats on my laptop, and listening to music. It may
+                    not be the most productive way to spend my days, but that is what my routine has become.
+                </p>
+
+                <h2 style="font-size: 1.8rem; margin: 2rem 0 1rem;">
+                    Leaving Coding Behind
+                </h2>
+
+                <p style="margin-bottom: 1.5rem;">
+                    I left coding a long time ago—officially in 2024. Even after that, I would still write some code
+                    occasionally in my free time. But now it has been over a month since I last touched it. I think
+                    this is where my coding journey truly ends, even as a hobby.
+                </p>
+
+                <p style="margin-bottom: 1.5rem;">
+                    The problem is that I do not really have a goal anymore. Because of that, I often feel like I am
+                    wasting my time. I hope that someday I find something worth grinding for—something that gives me a
+                    reason to wake up excited, not just something that earns money.
+                </p>
+
+                <h2 style="font-size: 1.8rem; margin: 2rem 0 1rem;">
+                    Living with Illness
+                </h2>
+
+                <p style="margin-bottom: 1.5rem;">
+                    The illness I have been living with has changed the way my brain works. I feel like I process
+                    information much more slowly than I used to, and because of that I do not think I can pursue
+                    academic goals anymore. It is difficult to accept, but it is how I feel.
+                </p>
+
+                <blockquote
+                    style="border-left: 4px solid var(--accent-color); padding-left: 1rem; font-style: italic; color: var(--text-secondary); margin: 2rem 0;">
+                    Sometimes I think of myself as a failure, but when I look back, I realize that many things happened
+                    because of my illness. It changed the path I thought my life would take.
+                </blockquote>
+
+                <h2 style="font-size: 1.8rem; margin: 2rem 0 1rem;">
+                    Was Computer Science Ever My Passion?
+                </h2>
+
+                <p style="margin-bottom: 1.5rem;">
+                    I always wanted to become a software engineer, but if I am being honest with myself, I was never
+                    very good at programming. Over time, I also realized that I never really enjoyed algorithmic
+                    thinking.
+                </p>
+
+                <p style="margin-bottom: 1.5rem;">
+                    I do not know why I chose Computer Science in the first place. Looking back, I think I chose it
+                    simply because I loved using computers. But enjoying computers and enjoying programming are two
+                    completely different things.
+                </p>
+
+                <p style="margin-bottom: 1.5rem;">
+                    To be honest, coding was never my passion. It took me a long time to admit that. And today, AI can
+                    write better code than I ever could, which makes me feel even less interested in continuing.
+                </p>
+
+                <h2 style="font-size: 1.8rem; margin: 2rem 0 1rem;">
+                    Looking Ahead
+                </h2>
+
+                <p>
+                    I am 24 years old now, and I honestly do not know what comes next. But I hope I find a new
+                    goal—something that I genuinely enjoy pursuing, not just for money, but because it gives me
+                    happiness and a sense of purpose.
+                </p>
+
+                <p style="margin-top: 1.5rem;">
+                    Maybe this is not the end of my journey. Maybe it is just the end of one chapter and the beginning
+                    of another. I just do not know what that next chapter is yet.
+                </p>
+
+            </div>
+
+        </article>
+
+        <footer>
+            <p>&copy; 2024 My Personal Blog. Built with ❤️.</p>
+        </footer>
+
+    </div>
+
+</body>
+
+</html>
